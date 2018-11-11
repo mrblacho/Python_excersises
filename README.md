@@ -1,2 +1,2 @@
-# Python_excersises
-Solutions to some of the python excursuses
+# Python_exercises
+Solutions to some of the python exercises
