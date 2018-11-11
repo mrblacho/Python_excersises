@@ -1,3 +1,6 @@
+#Simple exercise using classes and inheritance. 
+#Withdraw, deposit and prompt for password.
+
 class Ucet:
     def __init__(self, meno, suma=0):
         self.meno = meno
