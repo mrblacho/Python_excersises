@@ -43,5 +43,3 @@ for i in range(4):  #moving turtles one after another to draw square
     for t in zoz:
         t.fd(20)
         t.otoc(90)
-
-print(zoz)
